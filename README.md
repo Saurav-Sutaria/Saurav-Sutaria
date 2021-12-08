@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 I also have interest in **Competitve Programming** and **Full stack web Development**.
+- 👨‍💻 I also have interest in **Competitve Programming** and exploring **Full stack web Development**.
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
 
