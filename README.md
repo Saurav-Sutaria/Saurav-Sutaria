@@ -33,7 +33,7 @@
 ## 🌟 Online Coding Profiles:
 <p align="left">
 
-<a href = "https://leetcode.com/saurav_sutaria/" target="_blank" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px"/></a>
+<a href = "https://leetcode.com/saurav_sutaria/" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px" target="_blank"/></a>
 <a href = "https://www.codechef.com/users/saurav_sutaria" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
 <a href = "https://www.hackerrank.com/Saurav_Sutaria" title ="HackerRank Profile" target="_blank"><img src="src/hackerrank.png" width="50px" height="50px" hspace=5/></a>
 
