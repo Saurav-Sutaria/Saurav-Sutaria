@@ -1,4 +1,4 @@
-<a href="#" ><p style="text-align:center;"><img src="src/banner.jpg" width="50%" height="auto"/></p></a>
+<a href="#" style="text-align:center;"><p ><img src="src/banner.png" width="100%" height="auto"/></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saurav</h1>
 <h3 align="center">An Aspiring Software Developer.</h3>
