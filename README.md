@@ -1,4 +1,4 @@
-<a href="#" style="text-align:center;"><p ><img src="src/bg_banner.jpg" width="100%" height="auto"/></p></a>
+<a href="#" style="text-align:center;"><p ><img src="src/bg_banner.jpg" width="100%" height="100px"/></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saurav</h1>
 <h3 align="center">An Aspiring Software Developer.</h3>
@@ -44,7 +44,6 @@
 
 <a href = "https://www.linkedin.com/in/saurav-sutaria" title="LinkedIn"><img src="src/linkedin.png" width="45px" height="45px"/></a>
 <a href = "https://www.youtube.com/channel/UCHSCnB7K3c_uevoOIKaosTQ" title = "YouTube Channel"><img src="src/youtube.png" width="50px" height="50px" hspace=3 /></a>
-<a href = "saurav.sutaria02@gmail.com" title = "Gmail"><img src="src/gmail.png" width = "40px" height ="40px" hspace=2/></a>
 
 ## 📊 My Github Stats
 </p>
