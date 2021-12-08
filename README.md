@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently improving my **Data Structures and Algorithms** skills.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
 - 👨‍💻 I also have interest in **Competitve Programming** and exploring **Full stack web Development**.
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
