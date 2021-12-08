@@ -21,21 +21,21 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a title = "C++"> <img src="src/c++.jpg" width = "45px" height = "45px" /></a> 
-    <a title = "C"> <img src="src/C.jpg" width = "45px" height = "45px" /></a> 
-    <a title = "Python"> <img src="src/python.png" width = "45px" height = "45px" /></a> 
-    <a title = "HTML5"> <img src="src/html.jpg" width = "45px" height = "45px" /></a> 
-    <a title = "CSS"> <img src="src/css.png" width = "45px" height = "45px" /></a> 
-    <a title = "MySQL"> <img src="src/mysql.png" width = "45px" height = "45px" /></a>
-    <a title = "Git"> <img src="src/git.png" width = "45px" height = "45px" /></a>  
+    <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
+    <a href="#"><img src="src/C.jpg"  title = "C" width = "45px" height = "45px" /></a>
+    <a href="#"><img src="src/python.png" title = "Python" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/html.jpg" title = "HTML5" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/css.png" title = "CSS" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/mysql.png" title = "MySQL" width = "45px" height = "45px" /></a>
+    <a href="#"><img src="src/git.png" title = "Git" width = "45px" height = "45px" /></a>  
 </p>
 
 ## 🌟 Online Coding Profiles:
 <p align="left">
 
-<a href = "https://leetcode.com/saurav_sutaria/" title ="LeetCode Profile"><img src="src/leetcode.png" width = "45px" height ="45px"/></a>
-<a href = "https://www.codechef.com/users/saurav_sutaria" title ="CodeChef Profile"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
-<a href = "https://www.hackerrank.com/Saurav_Sutaria" title ="HackerRank Profile"><img src="src/hackerrank.png" width="50px" height="50px" hspace=5/></a>
+<a href = "https://leetcode.com/saurav_sutaria/" title ="LeetCode Profile" target="_blank"><img src="src/leetcode.png" width = "45px" height ="45px"/></a>
+<a href = "https://www.codechef.com/users/saurav_sutaria" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
+<a href = "https://www.hackerrank.com/Saurav_Sutaria" title ="HackerRank Profile" target="_blank"><img src="src/hackerrank.png" width="50px" height="50px" hspace=5/></a>
 
 </p>
 
