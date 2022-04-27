@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently improving my **Data Structures and Algorithms** skills.
 
-- 👨‍💻 I also have interest in **Competitve Programming** and exploring **Full stack web Development**.
+- 👨‍💻 I also have interest in **Competitve Programming** and learning **Full stack web Development**.
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
 
@@ -19,11 +19,12 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="#"><img src="src/html.jpg" title = "HTML5" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/css.png" title = "CSS" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/C.jpg"  title = "C" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/python.png" title = "Python" width = "45px" height = "45px" /></a> 
-    <a href="#"><img src="src/html.jpg" title = "HTML5" width = "45px" height = "45px" /></a> 
-    <a href="#"><img src="src/css.png" title = "CSS" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/java.png" title = "Java" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/mysql.png" title = "MySQL" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/git.png" title = "Git" width = "45px" height = "45px" /></a>  
 </p>
@@ -42,7 +43,7 @@
 
 <a href = "https://www.linkedin.com/in/saurav-sutaria" title="LinkedIn"><img src="src/linkedin.png" width="45px" height="45px"/></a>
 <a href = "https://www.youtube.com/channel/UCHSCnB7K3c_uevoOIKaosTQ" title = "YouTube Channel"><img src="src/youtube.png" width="50px" height="50px" hspace=3 /></a>
-
+<a href = "https://twitter.com/SauravSutaria" title="Twitter"><img src="src/twitter.png" width="50px" height="50px" /></a>
 ## 📊 My Github Stats
 </p>
 
