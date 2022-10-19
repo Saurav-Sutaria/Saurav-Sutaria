@@ -21,7 +21,7 @@
 <p align="left"> 
     <a href="#"><img src="src/html.jpg" title = "HTML5" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/css.png" title = "CSS" width = "45px" height = "45px" /></a>
-    <a href="#"><img src="src/bootstrap.png" title = "Bootstrap" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/bootstrap.png" title = "Bootstrap" width = "50px" height = "45px" /></a> 
     <a href="#"><img src="src/js.jpg" title = "JavaScript" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/C.jpg"  title = "C" width = "45px" height = "45px" /></a>
