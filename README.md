@@ -14,6 +14,7 @@
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
 
+- 📃 <a href="https://drive.google.com/file/d/1uPFmwIJO7BENT-rng3TzEHBdSfA6Hpxh/view" target="_blank">My Resume</a>
 
 
 ## 🚀 Languages and Tools:
@@ -34,18 +35,18 @@
 ## 🌟 Online Coding Profiles:
 <p align="left">
 
-<a href = "https://leetcode.com/saurav_sutaria/" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px" target="_blank"/></a>
-<a href = "https://www.codechef.com/users/saurav_sutaria" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
-<a href = "https://www.hackerrank.com/Saurav_Sutaria" title ="HackerRank Profile" target="_blank"><img src="src/hackerrank.png" width="50px" height="50px" hspace=5/></a>
+<a href = "https://leetcode.com/saurav_sutaria/" target="_blank" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px" target="_blank"/></a>
+<a href = "https://www.codechef.com/users/saurav_sutaria" target="_blank" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
+<a href = "https://www.hackerrank.com/Saurav_Sutaria" target="_blank" title ="HackerRank Profile" target="_blank"><img src="src/hackerrank.png" width="50px" height="50px" hspace=5/></a>
 
 </p>
 
 ## 📍 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/saurav-sutaria" title="LinkedIn"><img src="src/linkedin.png" width="45px" height="45px"/></a>
-<a href = "https://www.youtube.com/channel/UCHSCnB7K3c_uevoOIKaosTQ" title = "YouTube Channel"><img src="src/youtube.png" width="50px" height="50px" hspace=3 /></a>
-<a href = "https://twitter.com/SauravSutaria" title="Twitter"><img src="src/twitter.png" width="50px" height="50px" /></a>
+<a href = "https://www.linkedin.com/in/saurav-sutaria" target="_blank" title="LinkedIn"><img src="src/linkedin.png" width="45px" height="45px"/></a>
+<a href = "https://www.youtube.com/channel/UCHSCnB7K3c_uevoOIKaosTQ" target="_blank" title = "YouTube Channel"><img src="src/youtube.png" width="50px" height="50px" hspace=3 /></a>
+<a href = "https://twitter.com/SauravSutaria" target="_blank" title="Twitter"><img src="src/twitter.png" width="50px" height="50px" /></a>
 ## 📊 My Github Stats
 </p>
 
