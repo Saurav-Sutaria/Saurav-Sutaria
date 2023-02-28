@@ -42,11 +42,8 @@
 </p>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajitkumar1264&ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saurav-Sutaria&ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitkumar1264&anuraghazra&theme=vision-friendly-dark&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar1264&DenverCoder1&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <br>
 
