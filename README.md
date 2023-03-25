@@ -1,4 +1,8 @@
-<a href="#" style="text-align:center;"><p ><img src="src/bg_banner.jpg" width="100%" height="175px"/></p></a>
+<div align="center">
+    
+<img src = "https://raw.githubusercontent.com/Saurav-Sutaria/Saurav-Sutaria/6a383b61c1b1a12524a5ca66efa6641211b6b0da/gitartwork.svg">
+    
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px">, I'm Saurav.</h1>
 <h3 align="center">An Aspiring Software Developer.</h3>
