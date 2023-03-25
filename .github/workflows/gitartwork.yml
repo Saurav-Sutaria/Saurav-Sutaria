@@ -15,4 +15,4 @@
             user_name: Saurav-Sutaria
             # Text on contribution graph 
             text: SAURAV
-       - uses: jasineri/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v2
