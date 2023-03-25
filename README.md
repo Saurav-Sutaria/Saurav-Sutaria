@@ -10,11 +10,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm currently pursuing Bachelor's in Computer Engineering from Government Engineering College Rajkot.
+- 🎓 I'm pursuing Bachelor's in Computer Engineering from Government Engineering College Rajkot.
 
-- 🌱 I’m currently improving my **Data Structures and Algorithms** skills.
+- 👨‍💻 I am a **Competitve Programmer** having **3 star** on CodeChef.
 
-- 👨‍💻 I also have interest in **Competitve Programming** and learning **Full stack web Development**.
+- 🌱 Currently I am into **Full stack web Development** and exploring **Web3**.
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
 
