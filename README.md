@@ -27,7 +27,11 @@
     <a href="#"><img src="src/html.jpg" title = "HTML5" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/css.png" title = "CSS" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/bootstrap.png" title = "Bootstrap" width = "50px" height = "45px" /></a> 
+    <a href="#"><img src="src/tailwind.png" title = "Tailwind CSS" width = "45px" height = "45px"/></a> 
     <a href="#"><img src="src/js.jpg" title = "JavaScript" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/reactJS.png" title = "ReactJS" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/nodejs.png" title = "NodeJS" width="60px" height="55px" /></a> 
+    <a href="#"><img src="src/mongoDB.png" title = "MongoDB" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/C.jpg"  title = "C" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/python.png" title = "Python" width = "45px" height = "45px" /></a> 
