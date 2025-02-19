@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px">, I'm Saurav.</h1>
-<h3 align="center">An Aspiring Software Developer.</h3>
+<h3 align="center">A Software Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
