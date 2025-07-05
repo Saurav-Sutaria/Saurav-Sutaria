@@ -4,7 +4,7 @@
     
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px">, I'm Saurav.</h1>
+<h1 align="center">Hi, I'm Saurav.</h1>
 <h3 align="center">A Software Developer.</h3>
 
 
