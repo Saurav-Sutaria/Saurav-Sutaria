@@ -10,11 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm pursuing Bachelor's in Computer Engineering from Government Engineering College Rajkot.
-
-- 👨‍💻 I am a **Competitve Programmer** having **3 star** on CodeChef.
-
-- 🌱 Currently I am into **Full stack web Development** and exploring **Web3**.
+- 👨‍💻 Currently working as a Junior Software engineer.
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
 
@@ -48,12 +44,6 @@
 <a href = "https://www.hackerrank.com/Saurav_Sutaria" target="_blank" title ="HackerRank Profile" target="_blank"><img src="src/hackerrank.png" width="50px" height="50px" hspace=5/></a>
 
 </p>
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saurav-Sutaria&ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<br>
 
 ## 📍 Connect with me:
 <p align="left">
@@ -61,30 +51,6 @@
 <a href = "https://www.linkedin.com/in/saurav-sutaria" target="_blank" title="LinkedIn"><img src="src/linkedin.png" width="45px" height="45px"/></a>
 <a href = "https://www.youtube.com/channel/UCHSCnB7K3c_uevoOIKaosTQ" target="_blank" title = "YouTube Channel"><img src="src/youtube.png" width="50px" height="50px" hspace=3 /></a>
 <a href = "https://twitter.com/SauravSutaria" target="_blank" title="Twitter"><img src="src/twitter.png" width="50px" height="50px" /></a>
-## 📊 My Github Stats
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="left">
-    <a href="https://github.com/Saurav-Sutaria/github-readme-streak-stats">
-        <img title="Saurav Sutaria's streak" alt="Saurav Sutaria's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-Sutaria&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-  <br/>
-    <a href="https://github.com/Saurav-Sutaria/github-readme-stats"><img alt="Saurav Sutaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saurav-Sutaria&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
-  <a href="https://github.com/Saurav-Sutaria/github-readme-stats"><img alt="Saurav Sutaria's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Sutaria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
