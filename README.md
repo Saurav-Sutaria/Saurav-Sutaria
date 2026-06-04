@@ -14,7 +14,7 @@
 
 - 📧 Contact me : **saurav.sutaria02@gmail.com**
 
-- 📃 <a href="https://drive.google.com/file/d/1uPFmwIJO7BENT-rng3TzEHBdSfA6Hpxh/view" target="_blank">My Resume</a>
+- 📃 <a href="https://drive.google.com/file/d/1BygiNIiUApG55Jip07jIVoeLYTBbG2c1/view?usp=drive_link" target="_blank">My Resume</a>
 
 
 ## 🚀 Languages and Tools:
